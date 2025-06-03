@@ -1,7 +1,7 @@
-🛠️Project Title
+🛠️Project Title:
 Four Cylinder Engine – SolidWorks Design & 3D Print
 
-📝Description
+📝Description:
 This is a detailed 3D CAD model of a Four-Cylinder Inline Engine designed using SolidWorks. The model replicates the basic mechanical movement of pistons and crankshaft, similar to real-world IC engines. All components are 3D printable and assembled for visual and educational purposes.
 
 # 🛠️Tools Used:-
