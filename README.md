@@ -1,5 +1,8 @@
-# 4-cylinder-engine-solidworks-3dprint
-Designed a 3D model of a 4-cylinder engine using SolidWorks and successfully 3D printed the components. The goal was to understand engine mechanics through hands-on prototyping.
+🛠️Project Title
+Four Cylinder Engine – SolidWorks Design & 3D Print
+
+📝Description
+This is a detailed 3D CAD model of a Four-Cylinder Inline Engine designed using SolidWorks. The model replicates the basic mechanical movement of pistons and crankshaft, similar to real-world IC engines. All components are 3D printable and assembled for visual and educational purposes.
 
 # 🛠️Tools Used:-
 Software: SolidWorks 2023 | 3D Printer: Pratham 5.0 | Slicing software used: Cura | Material used: PLA
